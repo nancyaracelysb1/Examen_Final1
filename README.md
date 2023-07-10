@@ -1,5 +1,4 @@
-# Examen_Final1
-Examen Final 2
+# Examen_Final2
 
 Para el proceso de tratamiento y clasificación de imágenes vamos a utilizar una red neuronal convergente CNN
 y utilzamos tambien la biblioteca de redes neuronales keras 
